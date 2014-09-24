@@ -2,6 +2,8 @@ MP3-Player
 ==========
 
 An MP3 player program that can play songs provided it is given an XML file of songs.  This particular one happens to play some of my favorite music from different anime.
+
+NOTE: This project is too large to download as a zip file, even without the audio files, so I'm working on finding a place to upload it.  In the meantime, simply viewing the code or downloading files one-by-one may be the best option.  If you don't mind waiting, the zip is about 530 megabytes.
 <br>
 <br>
 Project Information
