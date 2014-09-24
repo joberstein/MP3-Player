@@ -42,7 +42,7 @@ This project explored Minim, an audio library for Processing, as well as extract
 
 Known Bugs
 --------------------------------------------------------------------------------
-A small bug dealing with highlighting the current song occurs when a song ends, but the user is on a different page.  The song of the new page does not highlight right away.  Clicking on the page the song is playing on will fix the issue. 
+A small bug dealing with highlighting the current song occurs when the last song of a page ends. If the user is not on the same page as the song when it ends, the song of the new page does not highlight right away.  Clicking on the page the song is playing on will fix the issue. 
 
 
 Contact Information
